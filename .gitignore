@@ -1,0 +1,9 @@
+*.out
+*.user*
+*.user.*
+*.pro.*
+*.sqlite3*
+build/*
+.vscode/*
+.cashe/*
+*.pro
